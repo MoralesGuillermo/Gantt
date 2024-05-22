@@ -1,0 +1,32 @@
+/*
+The color palette for the app is going to be:
+    2718FE
+    758BFD
+    AEB8FE
+    F1F2F6
+    FF8600
+*/
+
+body{
+    margin: 0;
+    font: normal 14px Roboto, Arial, sans-serif;
+}
+
+.topnav{
+    background-color: #27187E;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: right;
+    color: #F1F2F6;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 17px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.topnav a:hover{
+    color: #FF8600;
+}
